@@ -1,0 +1,12 @@
+func begin main
+temp = 5
+t0 = 4 * 3
+t1 = arr[t0]
+t1 = 2
+t2 = temp - 3
+t3 = 4 * t2
+t4 = arr[t3]
+k = t4
+return 0
+func end
+exit
