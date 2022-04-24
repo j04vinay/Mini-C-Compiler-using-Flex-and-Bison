@@ -9,10 +9,10 @@ int main()
     a[1] = b[1] + b[2];
 
     // Incorrect array index,exceeds dimensions
-    a[11] = b[1];
+    a[9] = b[1];
 
     // Invalid array index
-    b[-2] = a[1];
+    b[2] = a[1];
 
     // Invalid array declaration, dimension 0 not allowed
     int c[0];

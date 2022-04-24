@@ -2588,7 +2588,7 @@ void disp()
     printf("\n\n_________________________________________________\n\n");
     printf("\t Intermediate Code Generation\n\n");
     printf("_________________________________________________\n\n");
-    system("cat ICG.code");
+    system("type ICG.code");
     printf("\n_________________________________________________\n");
 
 }
