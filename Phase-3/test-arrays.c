@@ -14,8 +14,5 @@ int main()
     // Invalid array index
     b[2] = a[1];
 
-    // Invalid array declaration, dimension 0 not allowed
-    int c[0];
-
     return 1;
 }

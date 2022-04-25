@@ -3,8 +3,8 @@
 %{
     // Header files
     #include<stdio.h>
-      #include<stdlib.h>
-      #include "tables.h"
+    #include<stdlib.h>
+    #include "tables.h"
 
     // Initialising Symbol table and constant table
     entry **SymbolTable = NULL;

@@ -11,5 +11,5 @@ int main()
     // Missing semicolon
     int a
 
-        a = a * 2;
+    a = a * 2;
 }
