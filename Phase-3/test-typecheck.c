@@ -11,5 +11,4 @@ void main()
     char s ;
 
     s = a;
-
 }

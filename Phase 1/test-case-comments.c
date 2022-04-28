@@ -1,7 +1,6 @@
 /* The lexical analyser should remove all the valid comments and throw an exception for all the invalid comments */
 
 #include<stdio.h>
-
 int main(){
 
 	// Single line comment
@@ -15,5 +14,4 @@ int main(){
 	/* Nested comments are /* not */ allowed */
 
   return 0;
-
 }
